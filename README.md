@@ -28,8 +28,8 @@ The most feature-rich, advanced Dank Memer automation tool.
 ### Enabling Discord's developer mode
 To obtain a channel id for config.yml, you will need to have developer mode enabled.
 1. Go to your user settings on Discord
-2. Click "appearance" under "app settings"
-3. Scroll down to "advanced" and enable developer mode
+2. Click "advanced"
+3. enable developer mode
 
 You can now right click any user or channel to obtain the id.
 ### Note: We recommend you use this channel id: 931053950508085258
